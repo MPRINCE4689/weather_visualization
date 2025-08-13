@@ -25,7 +25,7 @@ This weather visualization system takes daily temperature data from a CSV file a
 ## 📁 Project Structure
 
 ```
-weather-trends-visualizer/
+weather_visualization/
 │
 ├── weather_visualizer.py       # Main application file
 ├── weather_data.csv            # Sample temperature dataset
@@ -72,7 +72,7 @@ python -c "import pandas, matplotlib; print('All libraries installed successfull
 ### Method 1: Using Default Dataset
 1. **Navigate to project directory:**
    ```bash
-   cd weather-trends-visualizer
+   cd weather_visualization
    ```
 
 2. **Run the application:**
